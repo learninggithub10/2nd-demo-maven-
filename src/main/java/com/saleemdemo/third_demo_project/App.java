@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Yay! successfully configured webhook for GitHub!" );
+        System.out.println( "Yay! successfully configured webhook for GitHub! " );
     }
 }
